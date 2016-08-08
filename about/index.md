@@ -19,7 +19,7 @@ framework for inquiring.
 The main ethos behind The Front Corner is that the creative process is a
 connective force.  It’s our ability to resource from the far corners of our
 lives: our thoughts and emotions, ancient wisdom, memories and fragments --
-everything we’ve collected from being alive to this worldand combine these
+everything we’ve collected from being alive to this world and combine these
 pieces in novel ways, creating something decidedly new.  We can create anew
 from the most unsuspecting sources of inspiration; our dreams and others’
 dreams, in the iterations born of experimentation, the gaps between the
