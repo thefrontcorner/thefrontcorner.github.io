@@ -1,6 +1,6 @@
 # Site
 title:              The Front Corner
-#bio:                'The Creative Process Explored'
+bio:                'Website coming soon...'
 #description:        "The Creative Process Explored"
 reading_time:       false
 words_per_minute:   200
@@ -39,7 +39,7 @@ sass:
 #bing-verify:
 #email:
 #twitter:            username
-facebook:           thefrontcorner
+#facebook:           thefrontcorner
 #github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
